@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: ZendCon 2008 - Day 1
+wordpress_id: 31
+wordpress_url: http://blog.paulosman.com/?p=31
+date: 2008-09-16 19:32:51 -04:00
+---
+<p>Well yesterday was day one of ZendCon 2008. Actually, the conference proper started today, yesterday was just tutorials. 
+</p>
+<p>
+So far I'm pretty impressed. I attended the <a href="http://www.zendcon.com/ZendCon08/public/schedule/detail/95">PHP Developer Best Practices</a> tutorial in the morning and the <a href="http://www.zendcon.com/ZendCon08/public/schedule/detail/204">Quality Assurance in PHP Projects</a> tutorial in the afternoon.</p>
+
+<p>The Best Practices tutorial was a little broad and most of it was focused on topics that were pretty common / basic. I'm not sure exactly what I wanted to get out of it, but for somebody who already uses an SCM system, who already tests (although not as much as I should) and writes api documentation it wasn't the most informative tutorial. 
+</p>
+
+<p>Sebastian Bergmann's QA tutorial was excellent. Of course, as the primary author of <a href="http://phpunit.de/">PHPUnit</a>, I assumed Sebastian would know what he was talking about and I was right. He offered a really good, in depth look at <a href="http://phpunit.de/">PHPUnit</a> and covered some of the newer features. He also covered <a href="http://selenium.openqa.org/">Selenium</a> and specifically Selenium RC in quite a bit of detail. </p>
+
+<p>Looking forward to more sessions... the day of tutorials was a great start, can't wait to see what the conference proper has to offer.</p>

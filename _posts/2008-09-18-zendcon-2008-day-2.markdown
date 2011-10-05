@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: ZendCon 2008 - Day 2
+wordpress_id: 33
+wordpress_url: http://blog.paulosman.com/?p=33
+date: 2008-09-18 18:23:37 -04:00
+---
+<p>Harold Goldberg, the CEO of Zend Technologies, started the day off with a talk called "Insights from the Experts: How PHP Leaders Are Transforming High-Impact PHP Applications". The talk was basically a run-down of how PHP is doing <i>out there</i>. (<small>Answer: Fairly well!</small>). There were a few case studies of larger companies using PHP (and of course Zend products) and a few reports / surveys / etc. Nothing particularly groundbreaking but it was good to start the day feeling pumped about being a PHP programmer...</p>
+
+<p>Later on I attended "Tiery-Eyed", a talk given by a Zend employee, Kevin Schroeder on ... you guessed it, tiered application development. It was pretty decent, Kevin walked the audience through the creation of a micro-blogging application using a variety of different backend tiers. I left with an urge to create the smallest application I could think off with one SOAP backend, one XML-RPC backend and one REST backend.</p>
+
+<p>The highlight of the day was Sara Goleman's talk on PHP Extension Writing. This was the most in-depth of the talks I attended and despite a few technical problems, the talk went smoothly. It was pretty broad but still managed to be quite inspiring.</p>
+
+<p>The day ended with a reception in the exhibit hall. Free drinks and food is never a bad way to end a day...</p>
