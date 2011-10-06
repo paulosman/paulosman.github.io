@@ -1,18 +1,32 @@
 <!doctype html>
 <html>
   <head>
-    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/css/styles.css" type="text/css" />
+    <link rel="alternate" type="application/atom+xml" title="Entries" href="/atom.xml" />
     <script type="text/javascript">
       var disqus_developer = 1;
     </script>
+    <title>Paul Osman : {{ page.title }}</title>
   </head>
   <body>
 
     <header id="page-header">
-      <a href="/">Paul Osman</a>
+      <h1><a href="/">paulosman.me</a></h1>
+      <nav>
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/contact.html">Contact</a></li>
+        </ul>
+      </nav>
     </header>
 
-    {{ content }}
+    <section id="page-body">
+      {{ content }}
+    </section>
+
+    <footer>
+      Copyright <a rel="cc:attributionURL" property="cc:attributionName" href="http://paulosman.me" xmlns:cc="http://creativecommons.org/ns#">Paul Osman</a>. <a href="http://creativecommons.org/licenses/by-sa/3.0/" rel="license">Some rights reserved</a>.
+    </footer>
 
   </body>
 </html>
