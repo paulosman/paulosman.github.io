@@ -1,0 +1,118 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "PT Sans", sans-serif;
+}
+
+header#page-header {
+    background-color: #777777;
+    color: #eeeeee;
+    font-size: 2em;
+    font-weight: bold;
+    opacity: 0.8;
+    position: fixed;
+    width: 100%;
+    margin: 0;
+    padding: 0.4em;
+    left: 0;
+    top: 0;
+    border-bottom: 1px solid #333;
+}
+
+header#page-header ul {
+    font-size: 60%;
+    list-style-type: none;
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+}
+header#page-header ul li {
+    display: inline;
+    padding-right: 20px;
+}
+
+header#page-header a, header#page-header a:visited {
+    text-decoration: none;
+    color: #fff;
+}
+
+header#page-header a:hover {
+    color: #ccc;
+}
+
+header#page-header h1 {
+    font-family: "Droid Sans", "Helvetica Neueu", helvetica, sans-serif;
+    font-size: 1em;
+    margin: 0;
+    padding: 0 0 0 5px;
+    text-shadow: 2px 2px 2px #333333;
+    float: left;
+}
+
+header#page-header nav {
+    float: right;
+    margin-right: 40px;
+}
+
+footer {
+    width: 48em;
+    margin: 0 auto;
+    font-size: 0.8em;
+    font-style: italic;
+    border-top: 1px solid #ccc;
+    padding: 1.5em 0em;
+}
+
+section#page-body {
+    width: 38em;
+    margin: 0 auto;
+    padding: 4.5em 1em 1em;
+}
+
+article#post {
+    line-height: 1.5em;
+}
+
+nav#view-all {
+    text-align: center;
+    margin: 0 auto;
+}
+
+article#post #post-title {
+    text-align: center;
+    margin: 0 auto;
+    font-size: 1.5em;
+}
+
+#post-title a, #post-title a:visited {
+    text-decoration: none;
+    color: #000;
+}
+#post-title a:hover {
+    color: #ccc;
+}
+
+ul.posts {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul.posts li {
+    clear: both;
+    white-space: nowrap;
+}
+
+ul.posts time {
+    float: left;
+    font-family: Monaco, "Courier New", monospace;
+    font-size: 80%;
+    width: 80px;
+    color: #aaa;
+}
+
+ul.links {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
