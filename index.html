@@ -1,10 +1,17 @@
 ---
 layout: default
-title: Paul Osman
+title: Home
 ---
 
+<p>Hi, I'm <strong>Paul Osman</strong>. I'm a Software Developer living and working in Toronto, Ontario, Canada. I spend most of my time writing code in Python, Javascript or <a href="http://news.ycombinator.com/item?id=1803815">whatever else gets the job done</a>. I work for <a href="http://www.kruxdigital.com/">Krux Digital</a>, a San Francisco based company working to make the web better by giving content publishers more control over their audience data.</p>
+
+
+<h2>Recent Blog Posts</h2>
 <ul class="posts">
-  {% for post in site.posts %}
-    <li>&laquo; <a href="{{ post.url }}">{{ post.title }}</a><span>{{ post.date | date_to_string }}</span></li>
+  {% for post in site.posts limit:7 %}
+    <li><time>{{ post.date | date: "%b %Y" }}</time> <a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
+<p>
+  <a href="/archive.html">All Posts</a>
+</p>
