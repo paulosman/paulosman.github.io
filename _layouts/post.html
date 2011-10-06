@@ -1,7 +1,13 @@
 ---
 layout: default
 ---
+
+<nav id="view-all">
+  <a href="/">&laquo; Home.</a>
+</nav>
+
 <article id="post">
+  <div id="post-title"><h1><a href="{{ page.url }}">{{ page.title }}</a></h1></div>
   {{ content }}
 </article>
 
