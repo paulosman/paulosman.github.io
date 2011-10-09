@@ -30,6 +30,9 @@ header#page-header ul li {
     display: inline;
     padding-right: 20px;
 }
+header#page-header img {
+    vertical-align: middle;
+}
 
 header#page-header a, header#page-header a:visited {
     text-decoration: none;
