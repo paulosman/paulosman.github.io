@@ -23,7 +23,7 @@ header#page-header ul {
     font-size: 60%;
     list-style-type: none;
     font-weight: normal;
-    margin: 0;
+    margin: 10px 0 0 0;
     padding: 0;
 }
 header#page-header ul li {
@@ -115,4 +115,105 @@ ul.links {
     list-style-type: none;
     margin: 0;
     padding: 0;
+}
+
+/* Resume */
+header.vcard h1 {
+    float: left;
+    font-size: 2.3em;
+    margin: 44px 0 0 -2px;
+    text-shadow: 0 0 1px #bbbbbb;
+    width: 62%;
+}
+header.vcard figure {
+    float: right;
+    text-align: right;
+    margin-bottom: 40px;
+    margin-top: 11px;
+}
+article.hresume section {
+    clear: both;
+    margin-bottom: 50px;
+}
+article.hresume h2 {
+    background: none repeat scroll 0 0 #f2f2f2;
+    border-bottom: 2px solid #cccccc;
+    font-size: 1.5em;
+    margin: 1em 0 0.8em;
+    text-shadow: 0 0 1px #cccccc;
+}
+section#speaking ul, section#skills ul {
+    padding-top: 0.3em;
+}
+article.hresume ul {
+    list-style: none outside none;
+}
+article.hresume div.description p {
+    padding: 5px 0px 5px 0px;
+}
+
+article.hresume div.description ul {
+    list-style: disc outside none;
+}
+
+div.description ul li {
+    margin-left: 30px;
+}
+
+article.hresume ul, h3, h2 {
+    margin: 0;
+    padding: 0;
+}
+
+section .vevent {
+    padding: 0.62em 0;
+    margin: 0;
+}
+
+section .date_duration, #speaking abbr {
+    color: #999999;
+    font-size: 0.85em;
+    font-style: italic;
+    line-height: 1.6em;
+    text-decoration: none;
+}
+
+.tags ul {
+    margin-left: 30%;
+}
+
+.tags ul li {
+    display: inline;
+    margin-left: 0;
+}
+
+section .skill {
+    cursor: help;
+}
+
+section#speaking ul li {
+    margin: 10px 0px 10px 0px;
+}
+section#speaking ul li:first-child {
+    margin: 0px 0px 10px 0px;
+}
+
+a.headerlink {
+    color: #c60f0f;
+    font-size: 0.8em;
+    padding: 0 4px;
+    text-decoration: none;
+}
+
+h2:hover > a.headerlink {
+    visibility: visible;
+}
+
+a.headerlink {
+    visibility: hidden;
+}
+
+a.headerlink:hover {
+    color: #fff;
+    background-color: #c60f0f;
 }
