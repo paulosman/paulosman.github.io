@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: Batucada - Tools & Vision
+title: Batucada - Tools &amp; Vision
 wordpress_id: 437
 wordpress_url: http://blog.eval.ca/?p=437
 date: 2010-07-07 14:56:48 -04:00
