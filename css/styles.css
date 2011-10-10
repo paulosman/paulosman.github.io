@@ -136,7 +136,9 @@ header.vcard figure {
 }
 article.hresume section {
     clear: both;
-    margin-bottom: 50px;
+}
+article.hresume p.org {
+    margin: 0;
 }
 article.hresume h2 {
     background: none repeat scroll 0 0 #f2f2f2;
@@ -146,7 +148,6 @@ article.hresume h2 {
     text-shadow: 0 0 1px #cccccc;
 }
 section#speaking ul, section#skills ul {
-    padding-top: 0.3em;
 }
 article.hresume ul {
     list-style: none outside none;
@@ -169,8 +170,8 @@ article.hresume ul, h3, h2 {
 }
 
 section .vevent {
-    padding: 0.62em 0;
     margin: 0;
+    padding: 0;
 }
 
 section .date_duration, #speaking abbr {
