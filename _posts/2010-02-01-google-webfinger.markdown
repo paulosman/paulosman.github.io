@@ -27,17 +27,17 @@ Server: GFE/2.0
 </pre>
 
 <pre lang="xml">
-<?xml version='1.0' encoding='UTF-8'?>
-<!-- NOTE: this host-meta end-point is a pre-alpha work in progress.   Don't rely on it. -->
-<!-- Please follow the list at http://groups.google.com/group/webfinger -->
-<XRD xmlns='http://docs.oasis-open.org/ns/xri/xrd-1.0' 
-     xmlns:hm='http://host-meta.net/xrd/1.0'>
-  <hm:Host xmlns='http://host-meta.net/xrd/1.0'>gmail.com</hm:Host>
-  <Link rel='lrdd' 
-        template='http://www.google.com/s2/webfinger/?q={uri}'>
-    <Title>Resource Descriptor</Title>
-  </Link>
-</XRD>
+&lt;?xml version='1.0' encoding='UTF-8'?&gt;
+&lt;!-- NOTE: this host-meta end-point is a pre-alpha work in progress.   Don't rely on it. --&gt;
+&lt;!-- Please follow the list at http://groups.google.com/group/webfinger --&gt;
+&lt;XRD xmlns='http://docs.oasis-open.org/ns/xri/xrd-1.0' 
+     xmlns:hm='http://host-meta.net/xrd/1.0'&gt;
+  &lt;hm:Host xmlns='http://host-meta.net/xrd/1.0'&gt;gmail.com&lt;/hm:Host&gt;
+  &lt;Link rel='lrdd' 
+        template='http://www.google.com/s2/webfinger/?q={uri}'&gt;
+    &lt;Title&gt;Resource Descriptor&lt;/Title&gt;
+  &lt;/Link&gt;
+&lt;/XRD&gt;
 </pre>
 
 <p>Now that you have the URI template, get the XRD file for the specific user:</p>
@@ -47,18 +47,18 @@ curl "http://www.google.com/s2/webfinger/?q=acct%3Aevalpaul%40gmail.com"
 </pre>
 
 <pre lang="xml">
-<?xml version='1.0'?>
-<XRD xmlns='http://docs.oasis-open.org/ns/xri/xrd-1.0'>
-	<Subject>acct:evalpaul@gmail.com</Subject>
-	<Alias>http://www.google.com/profiles/evalpaul</Alias>
-	<Link rel='http://portablecontacts.net/spec/1.0' href='http://www-opensocial.googleusercontent.com/api/people/'/>
-	<Link rel='http://webfinger.net/rel/profile-page' href='http://www.google.com/profiles/evalpaul' type='text/html'/>
-	<Link rel='http://microformats.org/profile/hcard' href='http://www.google.com/profiles/evalpaul' type='text/html'/>
-	<Link rel='http://gmpg.org/xfn/11' href='http://www.google.com/profiles/evalpaul' type='text/html'/>
-	<Link rel='http://specs.openid.net/auth/2.0/provider' href='http://www.google.com/profiles/evalpaul'/>
-	<Link rel='describedby' href='http://www.google.com/profiles/evalpaul' type='text/html'/>
-	<Link rel='describedby' href='http://s2.googleusercontent.com/webfinger/?q=evalpaul%40gmail.com&amp;fmt=foaf' type='application/rdf+xml'/>
-</XRD>
+&lt;?xml version='1.0'?&gt;
+&lt;XRD xmlns='http://docs.oasis-open.org/ns/xri/xrd-1.0'&gt;
+	&lt;Subject&gt;acct:evalpaul@gmail.com&lt;/Subject&gt;
+	&lt;Alias&gt;http://www.google.com/profiles/evalpaul&lt;/Alias&gt;
+	&lt;Link rel='http://portablecontacts.net/spec/1.0' href='http://www-opensocial.googleusercontent.com/api/people/'/&gt;
+	&lt;Link rel='http://webfinger.net/rel/profile-page' href='http://www.google.com/profiles/evalpaul' type='text/html'/&gt;
+	&lt;Link rel='http://microformats.org/profile/hcard' href='http://www.google.com/profiles/evalpaul' type='text/html'/&gt;
+	&lt;Link rel='http://gmpg.org/xfn/11' href='http://www.google.com/profiles/evalpaul' type='text/html'/&gt;
+	&lt;Link rel='http://specs.openid.net/auth/2.0/provider' href='http://www.google.com/profiles/evalpaul'/&gt;
+	&lt;Link rel='describedby' href='http://www.google.com/profiles/evalpaul' type='text/html'/&gt;
+	&lt;Link rel='describedby' href='http://s2.googleusercontent.com/webfinger/?q=evalpaul%40gmail.com&amp;fmt=foaf' type='application/rdf+xml'/&gt;
+&lt;/XRD&gt;
 </pre>
 
 **EDIT:** Google have since rolled out WebFinger support for everyone with a Google Profile. You no longer need to add 'webfingeralpha' to your interests.
