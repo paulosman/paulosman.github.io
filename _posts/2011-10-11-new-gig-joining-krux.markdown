@@ -1,7 +1,6 @@
 ---
 layout: post
 title: New Gig &mdash; Joining Krux Digital
-date: 2011-10-09 05:34:22 -04:00
 ---
 
 I'm really excited to announce that I've joined the team at [Krux Digital](http://www.kruxdigital.com). Krux was founded last year and have since been busy building products that help content publishers responsibly manage their consumer data. 
