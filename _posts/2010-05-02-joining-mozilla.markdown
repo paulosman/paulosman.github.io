@@ -5,7 +5,7 @@ wordpress_id: 334
 wordpress_url: http://blog.eval.ca/?p=334
 date: 2010-05-02 23:35:44 -04:00
 ---
-<img src="http://blog.eval.ca/wp-content/uploads/2010/05/mozilla-foundation.png" alt="" title="mozilla-foundation" class="alignnone size-full wp-image-346" />
+<img src="/images/mozilla-foundation.png" alt="" title="mozilla-foundation" class="alignnone size-full wp-image-346" />
 
 <p>I'm very happy to announce that I've taken a position as a Senior Web Developer for the Mozilla Foundation. I'm sure I'll be getting into all sorts of things, but job number one is going to be helping out with the <a href="http://drumbeat.org">Drumbeat</a> community. If you've never heard of it, Mozilla Drumbeat is a launch-pad and playground for every day web users working on preserving the openness of the web. It's kick-ass and extremely important and I'm proud to be a part of it.</p>
 
