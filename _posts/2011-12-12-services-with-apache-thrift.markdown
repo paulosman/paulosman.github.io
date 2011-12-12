@@ -128,9 +128,7 @@ def create_client(host='localhost', port=9090):
   socket = Thrift::Socket.new(host=host, port=port)
   transport = Thrift::BufferedTransport.new(socket)
   protocol = Thrift::BinaryProtocol.new(transport)
-
   client = UserService::Client.new(protocol)
-  transport.open()
   return transport, client
 end
 
