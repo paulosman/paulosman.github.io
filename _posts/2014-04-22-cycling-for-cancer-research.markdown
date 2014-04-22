@@ -3,7 +3,7 @@ layout: post
 title: Cycling for Cancer Research
 ---
 
-On June 14th and 15th, I'll be joining the
+On June 7th and 8th, I'll be joining the
 [Ride to Conquer Cancer](http://www.conquercancer.ca/index.html) &mdash; a
 two day ride from Toronto, Ontario to Niagara Falls (that's just over
 200km). The ride raises money for the
