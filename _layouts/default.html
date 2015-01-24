@@ -1,40 +1,25 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-  <head>
-    <link rel="stylesheet" href="/css/styles.css" type="text/css" />
-    <link rel="alternate" type="application/atom+xml" title="Entries" href="/atom.xml" />
-    <title>Paul Osman : {{ page.title }}</title>
-  </head>
+
+  {% include head.html %}
+
   <body>
 
-    <header id="page-header">
-      <h1><a href="/">paulosman.me</a></h1>
-      <nav>
-        <ul>
-          <li><a href="/">Home</a></li>
-          <li><a href="/contact.html">Contact</a></li>
-          <li><a href="/atom.xml"><img src="/images/feed.png" /></a></li>
-        </ul>
-      </nav>
-    </header>
+    {% include header.html %}
 
-    <section id="page-body">
-      {{ content }}
-    </section>
+    <!-- content start -->
 
-    <footer>
-      Copyright <a rel="cc:attributionURL" property="cc:attributionName" href="http://paulosman.me" xmlns:cc="http://creativecommons.org/ns#">Paul Osman</a>. <a href="http://creativecommons.org/licenses/by-sa/3.0/" rel="license">Some rights reserved</a>.
-    </footer>
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+    <!-- content end -->
+
+    {% include footer.html %}
+    {% include javascripts.html %}
 
   </body>
-  <script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-26216014-1']);
-  _gaq.push(['_trackPageview']);
-  (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-  </script>
+
 </html>
