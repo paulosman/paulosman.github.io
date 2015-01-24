@@ -11,6 +11,8 @@ email: paul@eval.ca
 logo: "/assets/images/logo.jpg"
 cover: "/assets/images/background.jpg"
 
+disqus_shortname: paulosman
+
 name: "Paul Osman"
 author: "Paul Osman"
 author_image: "/assets/images/profile.jpg"
