@@ -30,18 +30,18 @@ love in a city we treat as our second home. It was perfect. Seeing so many of ou
 in New Orleans was a great feeling. We had people travel from Boston, New York, Toronto, Dublin and
 beyond.  It was truly remarkable and I'll never forget how I felt that week.
 <figure class="third">
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/wedding1.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/wedding1.jpg"></a>
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/wedding2.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/wedding2.jpg"></a>
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/wedding3.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/wedding3.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/wedding1.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/wedding1.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/wedding2.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/wedding2.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/wedding3.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/wedding3.jpg"></a>
 </figure>
 <figure class="half">
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/wedding4.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/wedding4.jpg"></a>
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/wedding5.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/wedding5.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/wedding4.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/wedding4.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/wedding5.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/wedding5.jpg"></a>
 </figure>
 <figure class="third">
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/wedding6.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/wedding6.jpg"></a>
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/wedding7.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/wedding7.jpg"></a>
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/wedding8.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/wedding8.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/wedding6.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/wedding6.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/wedding7.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/wedding7.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/wedding8.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/wedding8.jpg"></a>
   <figcaption>Photos taken by [Kelli Summerford](http://www.summerfordphotography.com/)</figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ beyond.  It was truly remarkable and I'll never forget how I felt that week.
 I got a lot of travel in during 2014. As mentioned, I started the year in New Orleans. Meg and
 I ended up fitting in 4 trips to New Orleans in total. We also spent a long weekend in Austin.
 <figure>
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/bywatercat.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/bywatercat.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/bywatercat.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/bywatercat.jpg"></a>
   <figcaption>Meghann befriending a Bywater cat after a particularly cold Mardi Gras</figcaption>
 </figure>
 
@@ -58,8 +58,8 @@ Work sent me to Tokyo in February. My trip overlapped with Music Hack Day, so I 
 catch up with old friends from that scene and I managed to see the Crocodiles who were playing
 their first show in Japan.
 <figure class="half">
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/crocodiles.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/crocodiles.jpg"></a>
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/miila.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/miila.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/crocodiles.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/crocodiles.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/miila.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/miila.jpg"></a>
   <figcaption>Crocodiles supported by Miila and the Geeks, O-Nest, Shibuya, Feb 2014</figcaption>
 </figure>
 
@@ -67,25 +67,25 @@ In August, our great friends Erin and Andrew hosted us in Maine. We met them at 
 airport, spent a few days meeting their families and seeing where they grew up, then drove back,
 stopping in New Hampshire and Vermont on the way.
 <figure class="third">
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/ne1.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/ne1.jpg"></a>
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/ne2.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/ne2.jpg"></a>
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/ne3.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/ne3.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/ne1.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/ne1.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/ne2.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/ne2.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/ne3.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/ne3.jpg"></a>
 </figure>
 <figure class="half">
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/ne4.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/ne4.jpg"></a>
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/ne5.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/ne5.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/ne4.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/ne4.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/ne5.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/ne5.jpg"></a>
 </figure>
 <figure>
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/ne6.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/ne6.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/ne6.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/ne6.jpg"></a>
 </figure>
 <figure class="half">
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/ne7.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/ne7.jpg"></a>
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/ne8.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/ne8.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/ne7.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/ne7.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/ne8.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/ne8.jpg"></a>
 </figure>
 <figure class="third">
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/ne9.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/ne9.jpg"></a>
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/ne10.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/ne10.jpg"></a>
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/ne11.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/ne11.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/ne9.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/ne9.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/ne10.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/ne10.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/ne11.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/ne11.jpg"></a>
   <figcaption>New England Trip (mostly Portland, Maine) with Erin & Andrew - March 2014</figcaption>
 </figure>
 
@@ -96,25 +96,25 @@ who've been living there for a while now. Oh and we ran into Kevin who was also 
 ridiculously cheap airfare.
 
 <figure class="third">
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/korea1.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/korea1.jpg"></a>
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/korea2.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/korea2.jpg"></a>
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/korea3.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/korea3.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/korea1.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/korea1.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/korea2.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/korea2.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/korea3.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/korea3.jpg"></a>
 </figure>
 <figure class="half">
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/korea4.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/korea4.jpg"></a>
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/korea5.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/korea5.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/korea4.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/korea4.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/korea5.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/korea5.jpg"></a>
 </figure>
 <figure>
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/japan1.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/japan1.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/japan1.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/japan1.jpg"></a>
 </figure>
 <figure class="half">
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/japan2.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/japan2.jpg"></a>
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/japan3.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/japan3.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/japan2.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/japan2.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/japan3.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/japan3.jpg"></a>
 </figure>
 <figure class="third">
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/japan4.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/japan4.jpg"></a>
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/japan5.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/japan5.jpg"></a>
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/korea6.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/korea6.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/japan4.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/japan4.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/japan5.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/japan5.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/korea6.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/korea6.jpg"></a>
   <figcaption>Three nights in Seoul, three nights in Tokyo, three more nights in Seoul - Sep 2014</figcaption>
 </figure>
 
@@ -135,17 +135,17 @@ donate](http://conquercancer.ca/goto/paulosman2015).
 For 2015 I'm looking to double my total ride distance (4000km) and participate in my first 10k organized
 run.
 <figure class="half">
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/rtcc1.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/rtcc1.jpg"></a>
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/rtcc2.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/rtcc2.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/rtcc1.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/rtcc1.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/rtcc2.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/rtcc2.jpg"></a>
 </figure>
 <figure class="third">
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/rtcc3.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/rtcc3.jpg"></a>
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/rtcc4.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/rtcc4.jpg"></a>
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/rtcc5.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/rtcc5.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/rtcc3.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/rtcc3.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/rtcc4.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/rtcc4.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/rtcc5.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/rtcc5.jpg"></a>
 </figure>
 <figure class="half">
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/rtcc6.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/rtcc6.jpg"></a>
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/rtcc7.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/rtcc7.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/rtcc6.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/rtcc6.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/rtcc7.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/rtcc7.jpg"></a>
 </figure>
 
 ## Work
@@ -164,7 +164,7 @@ post.
 I did two conference talks in 2014.  [One at DevOpsDays Toronto](http://vimeo.com/107499529) and
 another at [QCon San Francisco](https://qconsf.com/presentation/organizing-your-company-embrace-microservices).
 <figure>
-  <a href="/assets/post_images/2015-01-24-looking-back-at-2014/qcon.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/qcon.jpg"></a>
+  <a class="popup" href="/assets/post_images/2015-01-24-looking-back-at-2014/qcon.jpg"><img src="/assets/post_images/2015-01-24-looking-back-at-2014/qcon.jpg"></a>
 <figcaption>Photo &copy; QCon. https://www.flickr.com/photos/qconpictures/15534282407</figcaption>
 </figure>
 

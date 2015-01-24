@@ -23,7 +23,11 @@
               $(this).wrap('<figure class="image"></figure>')
               .after('<figcaption>'+$(this).attr("alt")+'</figcaption>');
         });
-        
+
+        // Magnific Popup Images
+        $('.popup').magnificPopup({
+            type: 'image'
+        });
     });
 
 }(jQuery));
