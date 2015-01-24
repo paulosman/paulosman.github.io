@@ -362,8 +362,13 @@ body
       font-style: normal
       font-size: 32px
       line-height: 1.2
-      padding-top: 31px
       margin-bottom: 4px
+    h1
+      padding-top: 31px
+    h2
+      padding-top: 0px
+      margin-top: 0px
+      padding-bottom: 10px
     p
       font-weight: 400
       font-style: normal
@@ -380,10 +385,10 @@ body
       text-decoration: underline
     img
       max-width: 100%
-      margin: 0 auto
+      /* margin: 0 auto */
     figure
       margin: 0
-      padding: 0 0 30px
+      padding: 0 0 0px
     figcaption
       font-weight: 400
       font-style: italic
@@ -603,3 +608,62 @@ pre
     border: 0
     padding-right: 0
     padding-left: 0
+
+figure
+  margin: 0
+  *zoom: 1
+
+  &:before, &:after
+    display: table
+    line-height: 0
+    content: ""
+  &:after
+    clear: both
+
+  img
+    display: block
+    margin-right: auto
+    margin-bottom: 10px
+    margin-left: auto
+  a img
+    filter: gray /* IE6-9 */
+    -webkit-filter: brightness(100%) /* Google Chrome & Safari 6+ */
+    -webkit-transform: translate(0,0)
+    -moz-transform: translate(0,0)
+    -ms-transform: translate(0,0)
+    -o-transform: translate(0,0)
+    transform: translate(0,0)
+    -webkit-transition-duration: .25s
+    -moz-transition-duration: .25s
+    -o-transition-duration: .25s
+    box-shadow: 0 0 10px rgba(0,0,0,0.2)
+    &:hover
+      -webkit-filter: brightness(110%)
+
+@media only screen and (min-width: 62.5em)
+  figure.half img
+    float: left
+    width: 49%
+    margin-right: 0.5%
+    margin-left: 0.5%
+  figure.half figcaption
+    clear: left
+
+@media only screen and (min-width:62.5em)
+  figure.third img
+    float: left
+    width: 32.3%
+    margin-right: 0.5%
+    margin-left: 0.5%
+
+  figure.third figcaption
+    clear: left
+
+svg:not(:root)
+  overflow: hidden
+
+figcaption 
+  padding-top: 10px
+  text-align: center
+  font-size: 14px
+  font-style:italic
