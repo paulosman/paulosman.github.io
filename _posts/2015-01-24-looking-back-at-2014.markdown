@@ -2,7 +2,6 @@
 layout: post
 title: "Looking back at 2014"
 date: 2015-01-24 11:40:20
-categories: personal
 image: /assets/post_images/2015-01-24-looking-back-at-2014/wedding.jpg
 ---
 
