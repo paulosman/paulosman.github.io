@@ -37,3 +37,23 @@ social:
     share_title:
     share_link:
 
+  - icon: stack-overflow
+    url: http://stackoverflow.com/users/195977/paul-osman
+    desc: StackOverflow
+    share_url:
+    share_title:
+    share_link:
+
+  - icon: facebook
+    url: https://www.facebook.com/paulosman
+    desc: Follow me on facebook
+    share_url: https://www.facebook.com/sharer/sharer.php
+    share_title: ?u=
+    share_link:
+
+  - icon: linkedin
+    url: https://www.linkedin.com/in/paulosman
+    desc: Connect with me on LinkedIn
+    share_url:
+    share_title:
+    share_link:
