@@ -18,6 +18,7 @@ author: "Paul Osman"
 author_image: "/assets/images/profile.jpg"
 
 paginate: 5
+gems: [jekyll-paginate]
 
 url: "http://paulosman.me"
 cdn_url: "http://cdn.paulosman.me"
