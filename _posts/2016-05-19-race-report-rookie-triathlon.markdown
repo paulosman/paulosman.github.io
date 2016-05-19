@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Race Report - Rookie Tri 2016
-image: /assets/post_images/2016-05-10-race-report-rookie-triathlon/swim.jpg
+image: /assets/post_images/2016-05-19-race-report-rookie-triathlon/swim.jpg
 ---
 
-A couple of weeks ago I competed in my first triathlon, a super sprint distance
-race aptly named the [Rookie Tri](http://therookietri.com/). It's a 300 meter
-swim, followed by an 11.2 mile bike ending off with a 2 mile run. I'm registered
-to race the Olympic Distance (1500m swim, 40km bike, 10km run) at the [CapTex
+A few weeks ago I competed in my first triathlon, a super sprint distance race
+aptly named the [Rookie Tri](http://therookietri.com/). It's a 300 meter swim,
+followed by an 11.2 mile bike ending off with a 2 mile run. I'm registered to
+race the Olympic Distance (1500m swim, 40km bike, 10km run) at the [CapTex
 Triathlon](http://www.captextri.com/) at the end of the month, so I figured this
 would be good practice. I'm so glad I did it, I had a great time and learned a
 ton.
@@ -43,7 +43,7 @@ are given out separately for rookies and veterans. That means I was only
 competing with other rookies in my age group, and I managed to come away with a
 3rd place finish! That was a great feeling considering it was my first race.
 
-![Podium for 35-39 age group](/assets/post_images/2016-05-10-race-report-rookie-triathlon/podium.jpg)
+![Podium for 35-39 age group](/assets/post_images/2016-05-19-race-report-rookie-triathlon/podium.jpg)
 
 
 All in all I was really happy with how things went. Here's a list of take aways:
