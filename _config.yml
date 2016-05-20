@@ -1,5 +1,5 @@
 # Build settings
-markdown: rdiscount
+markdown: kramdown
 highligher: pygments
 
 # Site settings
