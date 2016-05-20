@@ -21,7 +21,6 @@ paginate: 5
 gems: [jekyll-paginate]
 
 url: "http://paulosman.me"
-cdn_url: "http://cdn.paulosman.me"
 baseurl: ""
 
 social:
