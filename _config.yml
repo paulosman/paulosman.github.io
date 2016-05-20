@@ -31,6 +31,13 @@ social:
     share_title: ?text=
     share_link: "&amp;url="
 
+  - icon: instagram
+    url: https://instagram.com/paulosman
+    desc: Follow me on instagram
+    share_url:
+    share_title:
+    share_link:
+
   - icon:	github
     url:	https://github.com/paulosman
     desc:	Fork me on github
