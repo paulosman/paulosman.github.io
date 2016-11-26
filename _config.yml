@@ -5,7 +5,7 @@ highligher: pygments
 # Site settings
 title: "Paul Osman"
 description: >
-  Thoughts on technology, management, cycling, running, travel and more.
+  Personal Blog - Mostly about software, cycling and running
 
 email: paul@eval.ca
 logo: "/assets/images/logo.jpg"
