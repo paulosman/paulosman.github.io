@@ -115,3 +115,5 @@ Beware though - at Georgetown I grabbed a cup of something, chugged it and reali
 #### Have fun
 
 Cyclocross can be a bit intimidating at first, but hopefully some of what I’ve put here will help you out. It’s an amazingly fun and crazy sport and I’d heartily recommend it to anyone who likes riding a bike and is at least a little crazy.
+
+<em>Photo Credits: [Corvin Alstot](https://hardcorvtm.smugmug.com/) & [Jim Hicks](http://jahicks.zenfolio.com/)</em>
