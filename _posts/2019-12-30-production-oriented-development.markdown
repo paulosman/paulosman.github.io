@@ -1,24 +1,23 @@
 ---
 layout: post
-title: Production Driven Development
+title: Production Oriented Development
 ---
 
-Throughout my career, I've developed some
-opinions. Okay, that's an understatement. We work in an industry that is full
-of opinions and I have many. Some of my opinions came and went with new
-information. I try to challenge strongly held beliefs I have and have changed
-my opinion frequently. Others, however, have worn particularly deep ruts,
-reinforced by years of experience. I tried to think about what my most strongly
-held opinions had in common, and it occurred to me that they all centered on
+Throughout my career, I've developed some *opinions*. Some came and went with new
+information. I try to challenge my strongly held beliefs and have changed
+my mind frequently. Some opinions, however, have worn particularly deep ruts,
+reinforced by years of experience. I tried to figure out what these
+had in common, and it's
 the idea that **code in production is the only code that matters**. Staging doesn't
 matter, code on your laptop doesn't matter, QA doesn't matter, literally,
-everything else is debt (some of which might be necessary, some of which can be
-done away with). This perspective probably comes from years sitting in between
-what is classically called operations and product development. I strongly
-believe that teams should optimize for getting code to production as quickly as
-possible, as well as responding to issues in production.
+everything else is debt. 
 
-Apparently this idea, and a lot of the practices it implies, can be
+This perspective probably comes from years sitting in between
+operations and product development. I strongly
+believe that teams should optimize for getting code to production as quickly as
+possible and responding to incidents in production.
+
+This idea, and a lot of the practices it implies, can be
 counter-intuitive or controversial, so I want to dive into them a little
 further. What follows is a set of practices and principles I believe are true,
 considering my underlying belief that code working in production is the only
