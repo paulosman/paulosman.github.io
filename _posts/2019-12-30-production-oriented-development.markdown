@@ -9,7 +9,7 @@ my mind frequently. Some opinions, however, have worn particularly deep ruts,
 reinforced by years of experience. I tried to figure out what these
 had in common, and it's
 the idea that **code in production is the only code that matters**. Staging doesn't
-matter, code on your laptop doesn't matter, QA doesn't matter, literally,
+matter, code on your laptop doesn't matter, QA doesn't matter,
 everything else is debt. 
 
 This perspective probably comes from years sitting in between
@@ -23,7 +23,7 @@ further. What follows is a set of practices and principles I believe are true,
 considering my underlying belief that code working in production is the only
 code that matters.
 
-## 1. Engineers should operate their own code.
+## 1. Engineers should operate their code.
 
 **Engineers are the subject matter experts for the code they write and should be
 responsible for operating it in production**. In this context, "operating" means
@@ -38,7 +38,7 @@ efforts in writing production-ready code are paying off. I've heard people
 complain about the prospect of being on-call, so I'll just ask this: if you're
 not on-call for your code, who is?
 
-If you're not currently on-call for your own code but want to be, and can help
+If you're not currently on-call for your code but want to be, and can help
 influence this decision, there are some things you can do. Set up PagerDuty (or
 similar) schedules for each group of engineers responsible for specific
 services or parts of your code. A good schedule has 6–8 engineers. There are
@@ -62,7 +62,7 @@ solutions that solve a wide range of common problems. I mean things like git
 repository hosting (Github, Gitlab, Bitbucket, etc), observability tooling
 (Honeycomb, Lightstep, etc), managed databases (Amazon RDS, Confluent Kafka,
 etc), alerting (PagerDuty, OpsGenie, etc) and a whole host of other commodity
-technologies. This even applies to your own infrastructure - if you can help
+technologies. This even applies to your infrastructure - if you can help
 it, don't roll your own Kubernetes clusters (side note: do you even need to use
 Kubernetes?), don't roll your own load balancers if you can use Amazon ELB or
 ALBs.
@@ -84,11 +84,11 @@ Deploying should be a frequent and unexciting activity. **Engineers should be
 able to deploy with minimal manual steps and it should be easy to see if the
 deploy is successful** (this requires instrumenting your code for observability,
 which - tada - is covered above), and it should be easy to roll back a deploy
-in the event that something doesn't go well. Deploying frequently implies that
+if something doesn't go well. Deploying frequently implies that
 deploys are smaller, and smaller deploys are generally easier, faster and
 safer.
 
-Many teams implement periods of time where deploys are forbidden - these can be
+Many teams implement periods where deploys are forbidden - these can be
 referred to as code freezes, or deploy policies like "Don't deploy on Fridays".
 Having such blackout periods can lead to a pile-up of changes, which increases
 the overall risk of something going very wrong.
@@ -108,7 +108,7 @@ The team behind it also publishes the [State of DevOps](https://cloud.google.com
 reports, which are full of well-researched information about what various
 companies in the industry are doing. It's not a coincidence that two of the
 four key metrics that the book focuses on are directly related to this (Deploy
-Frequency, Change Lead Time). Shipping really is [your company's heartbeat](https://www.heavybit.com/library/podcasts/o11ycast/ep-12-speed-of-deployment-with-rich-archbold-of-intercom/).
+Frequency, Change Lead Time). Shipping is [your company's heartbeat](https://www.heavybit.com/library/podcasts/o11ycast/ep-12-speed-of-deployment-with-rich-archbold-of-intercom/).
 
 ## 4. Trust the People Closest to the Knives
 
@@ -129,7 +129,7 @@ your organization (i.e. a messaging system, ci/cd infrastructure, shared
 libraries or services) there's an uncomfortable truth lurking for you: the
 people who use your work know more about it than you do in many cases. They
 understand implicitly how it serves customers and they know what contortions or
-hoops they have to jump through in order to get it to work. Listen to them for
+hoops they have to jump through to get it to work. Listen to them for
 clues on how to improve the UX of your services and tools.
 
 ## 5. QA Gates Make Quality Worse
@@ -138,7 +138,7 @@ Many teams have a manual QA step that gets performed before deploys. The idea,
 I guess, is to have someone run automated or manual tests to verify that a set
 of changes are ready to be released. This sounds like a comforting
 idea - having a human being (or team of human beings) "verify" a release before
-it goes out - **but it falls victim to a number of false assumptions and creates
+it goes out - **but it falls victim to several false assumptions and creates
 some misalignments that do more harm than good.**
 
 First of all, if there's manual work that needs to be done before a deploy can
@@ -146,7 +146,7 @@ go out, that creates a bottleneck - if you're making deploys easy, and
 deploying small changes frequently, no QA team is going to be able to keep up
 testing every deploy, and will inevitably block teams from deploying. That's no
 good. If you have manual tests, automate them and build them into your CI
-pipeline (if they actually do deliver value).
+pipeline (if they do deliver value).
 
 Secondly, the teams doing QA often lack context and are under time pressure.
 They may end up testing "effects" instead of "intents". For example, I've seen
@@ -179,7 +179,7 @@ tested tooling for this stuff. I think of databases most often when I think
 about this belief. MySQL is a database with many, many quirks, but it is so
 widely used, that you should still just use it most of the time.
 
-Very few organizations have the bandwidth to debug unique problems. You really
+Very few organizations have the bandwidth to debug unique problems. You 
 don't want unique problems, especially when performing routine
 operations - i.e. storing bytes on disk, choosing a new leader in a cluster,
 garbage collecting objects, querying time-series data, etc. Having unique
@@ -205,8 +205,7 @@ a Microservices architecture any day.
 
 Quick sidebar on Microservices: as with so many trends in tech, they are often
 sold as a panacea. Let me be clear: **Microservices, designed well, solve some
-specific problems and as with most solutions to complex problems, involve a
-number of trade-offs**. If you are going in this direction, I do have [opinions](https://www.amazon.com/Microservices-Development-Cookbook-independently-deployable/dp/1788479505) on
+specific problems and as with most solutions to complex problems, involve several trade-offs**. If you are going in this direction, I do have [opinions](https://www.amazon.com/Microservices-Development-Cookbook-independently-deployable/dp/1788479505) on
 how you should do it, but I also think you should hold off for as long as you
 can.
 
@@ -214,7 +213,7 @@ can.
 
 A more direct heading for this section would be **"Non-Production Environments
 are Bullshit"**. Environments like staging or pre-prod are a fucking lie. When
-you're starting out, they make a little sense, but as you grow, changes happen
+you're starting, they make a little sense, but as you grow, changes happen
 more frequently and you experience drift. Also, by definition, your non-prod
 environments aren't getting traffic, which makes them fundamentally different.
 The amount of effort required to maintain non-prod environments grows very
@@ -226,7 +225,7 @@ any resemblance to production.
 
 ## 9. Things Will Always Break
 
-It's impossible, and in fact, undesirable, to avoid failure. **Lean into the fact
+It's impossible, even undesirable, to avoid failure. **Lean into the fact
 that failure is inevitable, and focus on how you respond to it**. This means
 investing in a continuously improving incident response process. There's no
 one-size-fits-all for every company and team, but you should have a good idea
@@ -234,7 +233,7 @@ of what to do when things go wrong, and you should have mechanisms in place to
 learn from those situations and improve your processes. Invest in [Incident Analysis](https://www.learningfromincidents.io/). It's a huge field with lots of valuable tools and resources for
 maximizing the return on investment when incidents occur (or don't!).
 
-This is an area where Chaos Engineering can be really helpful. [Injecting failures into production](https://queue.acm.org/detail.cfm?id=2353017) can improve confidence in how to respond when a system
+This is an area where Chaos Engineering can be helpful. [Injecting failures into production](https://queue.acm.org/detail.cfm?id=2353017) can improve confidence in how to respond when a system
 starts behaving in unexpected ways. [Game Days](https://www.gremlin.com/community/tutorials/how-to-run-a-gameday/) can be a particularly effective
 way to allow a team of engineers to practice various outage scenarios.
 
