@@ -3,7 +3,7 @@ layout: post
 title: Production Driven Development
 ---
 
-In my roughly 20 years working in the software industry, I've developed some
+Throughout my career, I've developed some
 opinions. Okay, that's an understatement. We work in an industry that is full
 of opinions and I have many. Some of my opinions came and went with new
 information. I try to challenge strongly held beliefs I have and have changed
