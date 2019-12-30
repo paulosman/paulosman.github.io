@@ -3,19 +3,17 @@ layout: post
 title: Production Oriented Development
 ---
 
-Throughout my career, I've developed some *opinions*. Some came and went with new
-information. I try to challenge my strongly held beliefs and have changed
-my mind frequently. Some opinions, however, have worn particularly deep ruts,
+Throughout my career, I've developed some *opinions*. Some have worn particularly deep ruts,
 reinforced by years of experience. I tried to figure out what these
 had in common, and it's
 the idea that **code in production is the only code that matters**. Staging doesn't
 matter, code on your laptop doesn't matter, QA doesn't matter,
-everything else is debt. 
+only production matters. Everything else is debt. 
 
 This perspective probably comes from years sitting in between
 operations and product development. I strongly
 believe that teams should optimize for getting code to production as quickly as
-possible and responding to incidents in production.
+possible as well as responding to incidents in production.
 
 This idea, and a lot of the practices it implies, can be
 counter-intuitive or controversial, so I want to dive into them a little
