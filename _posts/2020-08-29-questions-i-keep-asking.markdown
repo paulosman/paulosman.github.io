@@ -24,7 +24,7 @@ think that data visualization is an amazing topic. In a world with infinite
 time, I’d love to dive into it, but probably not in this career. So, with that
 said, here are my questions:
 
-## How can we ensure that data flows through a system in ways that are performant, scalable, and reliable? How do we verify the integrity of data, especially in increasingly large-scale and complex data systems?
+**1. How can we ensure that data flows through a system in ways that are performant, scalable, and reliable? How do we verify the integrity of data, especially in increasingly large-scale and complex data systems?**
 
 This is a broad area, but it’s useful as a guide. My core technical interests
 gravitate towards backend engineering and this is why. I think that most of
@@ -50,7 +50,7 @@ network performance. At every path, there are tradeoffs to consider and I doubt
 anyone could ever be considered an expert in all these areas, but it’s really
 fun stuff to think about and has real implications.
 
-## How can systems be built to maximize operability? What techniques can be followed to allow operators to observe the behavior of a system, make decisions about its operation, and act on those decisions?
+**2. How can systems be built to maximize operability? What techniques can be followed to allow operators to observe the behavior of a system, make decisions about its operation, and act on those decisions?**
 
 I want to help make life better for those of us who keep things running, as
 well as the people who depend on the services we build and operate. What are
@@ -83,7 +83,7 @@ example, the version of a piece of software that a part of a system should run
 is crucial in my experience. Chaos engineering is another area where I think
 introducing complexity can be helpful.
 
-## How do operators learn about the systems they are responsible for? How does that knowledge help or hinder them in their duties? How do they teach others who are less familiar with the system? How do teams coordinate and make decisions during high-stress incidents?
+**3. How do operators learn about the systems they are responsible for? How does that knowledge help or hinder them in their duties? How do they teach others who are less familiar with the system? How do teams coordinate and make decisions during high-stress incidents?**
 
 I believe these are classic [Cognitive Systems Engineering
 questions](https://www.sciencedirect.com/science/article/pii/B9780444705365500063).
@@ -112,7 +112,7 @@ extensively](http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8084
 on this subject, specifically in the context of
 software operations and outages and I want to dig in a lot more.
 
-## What are the tradeoffs when considering the needs of consistency, availability, and scalability? In order to guarantee coordination, is it necessary to introduce limits that interfere with a system's ability to scale? When is coordination unnecessary?
+**4. What are the tradeoffs when considering the needs of consistency, availability, and scalability? In order to guarantee coordination, is it necessary to introduce limits that interfere with a system's ability to scale? When is coordination unnecessary?**
 
 These are classic distributed systems questions and I find them really fun to
 think about. They come up in practical applications from time to time. If you
@@ -135,7 +135,7 @@ consistency. The Google Spanner team is no doubt doing some really interesting
 work here. It’s fascinating and I feel like you could spend a lifetime learning
 about all the work being done in this area and still not be caught up.
 
-## How do organizations learn? How do organizations internalize information necessary to guarantee their future success?
+**5. How do organizations learn? How do organizations internalize information necessary to guarantee their future success?**
 
 So you have a large scale data-driven system that incorporates a number of
 design decisions intended to prevent or isolate failures. You have groups of
