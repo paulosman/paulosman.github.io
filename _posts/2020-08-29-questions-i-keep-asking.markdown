@@ -6,7 +6,7 @@ title: Questions I Keep Asking
 Software is a big space and in the span of a career, you can move in a bunch of
 different directions, all interesting to different people. As I approach my
 20th year as a professional software person, I thought it’d be interesting to
-reflect on where my career has taken me so far, and how I hope to spend the
+reflect on how I hope to spend the
 next 20 years. I found it useful to write down questions I keep
 coming back to and use them as a guide for my continued learning. I’ll be
 interested to come back to this post and see how it compares to whatever
